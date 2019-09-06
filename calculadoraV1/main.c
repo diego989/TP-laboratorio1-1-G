@@ -100,7 +100,7 @@ int main()
                 }
 
                 flagCalc=1;
-                printf("Calculos echos!!!!\n");
+                printf("Calculos Hechos!!!!\n");
             }
             else
             {
