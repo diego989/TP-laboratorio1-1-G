@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567742624 source:c:\users\yael-y-diego\desktop\ejercicios en c\calculadorav1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"diego.h"
+
+1567740923 source:c:\users\yael-y-diego\desktop\ejercicios en c\calculadorav1\diego.c
+	"diego.h"
+
+1567740855 c:\users\yael-y-diego\desktop\ejercicios en c\calculadorav1\diego.h
+
